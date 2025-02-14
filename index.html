@@ -85,8 +85,8 @@ and open the demo in the browser by going to localhost:8000
     <meta charset="UTF-8" />
     <meta name="description" content="6502 CPU is 50 years old. A special webGL audio-visual presentation. A tribute to the almighty MOS 6502. Done by Krystone in February 2025. Music by Moonshine Fox." />
     <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="favicon/favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
     <style>
         body { 
@@ -328,7 +328,7 @@ and open the demo in the browser by going to localhost:8000
     
     // We do not attempt to play; we wait for user interaction.
     // Music by: Moonshine Fox, 176 BPM / 2 ? Fₘ ?
-    audioLoader.load('assets/ptalemfox.mp3', function (buffer) {
+    audioLoader.load('assets/music.mp3', function (buffer) {
         sound.setBuffer(buffer);
         sound.setLoop(true);
         sound.setVolume(0.75);
