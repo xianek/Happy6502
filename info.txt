@@ -1,0 +1,36 @@
+  .     .                       .   .
++    o      +         .      .  :    
+  .    .  .      .   +     .    o   .
+  o_   :          _     .    .  .   .
+. | |__o_ _ _ ___|o|____.__  ___    :
+. | | / _| |o|  _\  _/ o|  \|  o\   o
+: |o /| ||_  |_ o/ |/ | | | \ \_/ feb   
+o |__\|_|o|__|__/|__\___|_|_/__/ 2o25
+.
+:            krystone.pl            :
+.                                   |
++ - - --- . -- -- . - --_ _- .----. o
+.                                   .
+| What is it?                       :
+:
+.    It is A webGL Demo called:     .
+|   " Happy 50th Birthday 6502 "
+:     ...it's multiplatform!
+.      
+| Why?
+:
+:    Because it is MOS 6502's
+.    50th Anniversary this year.
+o    1975-2025
+:
+| WhoDunnit?
+:
+.    Krystone → Concept, Code, Art
+.    Moonshine Fox → Music (Cover)
+o    Jochen Hippel → Original Tune
+:
+.  __       .                   .   :
+. (oo)      :                   :   |
+:__""__.o:.-o..-+--.: ..- -- - .:+-.o
+            .       .           o   
+                    o

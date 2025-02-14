@@ -1,0 +1,16 @@
+Introduced in 1975 by MOS Technology, the 6502 became one of the most influential CPUs in history.
+
+Its simple yet powerful 8-bit design helped power iconic machines such as the Apple II, Commodore 64/128, the entire Atari 8-bit range, 
+VCS, and even the Nintendo Entertainment System (NES). VLSI licensed 65c02 variant was also in the Atari Lynx. The list is too long to traverse it here.
+
+Despite having only 56 instructions, it allowed for creative programming and helped drive the home computer and video game revolution, especially in the 1980s.
+
+Today, computing enthusiasts and hobbyists continue to celebrate its legacy, proving that simplicity and innovation can change the world.
+
+In 2025, we celebrate 6502's 50th birthday! So... Happy birthday 6502! In Poland, we'd say or sing "100 lat", but it's very likely that it will be a lot more than that. Sadly, you'll be long gone before your 6502 is...
+
+Oh, well...
+
+But don't be sad, you can use the mousewheel to play with the volume of the music and that's something to be happy about.
+
+The music was arranged and produced by Moonshine Fox and previously released in 2022. I've asked him if I could use the track for this demo, and he was happy to let me do that. It's worth noting that the original song was composed by Jochen Hippel for a niche game named "A Prehistoric Tale" which was inspided by a C64 game "Dino Eggs". And, as we already know, C64 is 6502 based. While it is an absurd connection, I really liked the song and really wanted to use it here... Be sure to view the source code for more details... It's my first webGL work, so be gentle please...
