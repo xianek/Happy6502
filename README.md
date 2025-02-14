@@ -14,4 +14,4 @@ And then going to https://localhost:8000 in your web browser.
 
 Or you can view/run serve.bat if you are on Windows. That might help.
 
-![6502demoScreenShot](https://github.com/user-attachments/assets/ad2bb7a7-1d18-4b91-863e-5d3184f3f720)
+<img width="1361" alt="6502" src="https://github.com/user-attachments/assets/daab4666-9e15-4aa1-852e-f7161aac0561" />
